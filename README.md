@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 Hello Cloud guru Users, You are the best!
->>>>>>> 313d69d10dd9a45faf0f2631459c7639fc733c15
 
 This is my test Changes
 # test-repo
