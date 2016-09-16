@@ -1,4 +1,4 @@
-Hello Cloud guru Users
+Hello Users
 
 This is my test Changes
 # test-repo
